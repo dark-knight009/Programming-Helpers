@@ -1,7 +1,7 @@
 # Hacktoberfest2021
 Hacktoberfest
 
-<img alt="HF2021" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.digitalocean.com%2F&psig=AOvVaw0g7qPVearSPoYOb3sdAB3H&ust=1634907505849000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKia9ZzH2_MCFQAAAAAdAAAAABAD">
+<img alt="HF2021" src="https://hacktoberfest.digitalocean.com/share-card.png">
 
 ### :octocat: Open your first pull request for the Hacktoberfest 2021 challenge.
 
