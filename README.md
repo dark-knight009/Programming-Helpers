@@ -17,7 +17,7 @@ Hacktoberfest
 <br>
 (Follow me on github - this motivates me to review & merge pull requests quicker.) 
 
-### Step#3: [Fork](https://github.com/shubham9672/Hacktoberfest2021/fork) and clone the repository.
+### Step#3: [Fork] and clone the repository.
 
 ### Step#4: Send in your valuable projects/code to this repository in order to complete it. Please make sure you are making a valid contribution to the open source.
        
